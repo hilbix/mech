@@ -9,5 +9,5 @@ require (
 
 require (
 	github.com/edgeware/mp4ff v0.28.1-0.20220602113314-1abe9a5439ec // indirect
-	google.golang.org/protobuf v1.28.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 )
